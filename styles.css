@@ -8,7 +8,7 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #FF0212;
+    background-color: #17191a;
     color: #333;
     line-height: 1.6;
 }
@@ -22,7 +22,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #800080;
+    background-color: #7bea24;
     color: #fff;
     padding: 20px 0;
 }
@@ -52,7 +52,7 @@ header nav ul li a {
 
 /* Hero section styles */
 .hero {
-    background-color: #01FF01;
+    background-color: #ff8100;
     padding: 50px 0;
     text-align: center;
 }
@@ -69,7 +69,7 @@ header nav ul li a {
 
 .hero .btn {
     display: inline-block;
-    background-color: #1E90FF;
+    background-color: #a9a3a3;
     color: #fff;
     padding: 10px 20px;
     text-decoration: none;
@@ -78,7 +78,7 @@ header nav ul li a {
 }
 
 .hero .btn:hover {
-    background-color: #FFFF00;
+    background-color: ​​#36c7f2;
 }
 
 /* Portfolio section styles */
@@ -101,7 +101,7 @@ header nav ul li a {
 }
 
 .portfolio-item {
-    background-color: #00FF00;
+    background-color: #fff;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -124,7 +124,7 @@ header nav ul li a {
 
 /* Footer styles */
 footer {
-    background-color: #FF0000;
+    background-color: #17191a;
     color: #fff;
     text-align: center;
     padding: 20px 0;
